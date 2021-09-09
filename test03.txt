@@ -1,0 +1,9 @@
+toto
+23
+titi
+19.50
+tutu
+-10.56
+tata
+8.55
+end
